@@ -1,4 +1,4 @@
-## Generar documentación con Swagger
+## Generar documentación con Swagger test
 ```bash
 ./vendor/bin/openapi --format json --output public/swagger/swagger.json src config vendor/agencycoda
 ```
