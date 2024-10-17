@@ -2,7 +2,7 @@
 ```bash
 ./vendor/bin/openapi --format json --output public/swagger/swagger.json src config vendor/agencycoda
 ```
-# Mezzio Skeleton and Installer
+# Mezzio Skeleton and Installerasd
 
 [![Build Status](https://travis-ci.com/mezzio/mezzio-skeleton.svg?branch=master)](https://travis-ci.com/mezzio/mezzio-skeleton)
 [![Coverage Status](https://coveralls.io/repos/github/mezzio/mezzio-skeleton/badge.svg?branch=master)](https://coveralls.io/github/mezzio/mezzio-skeleton?branch=master)
